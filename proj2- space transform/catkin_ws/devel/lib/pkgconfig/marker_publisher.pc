@@ -1,0 +1,8 @@
+prefix=/home/ccc_1cf232f2d6_14027/asn31943_2/asn31944_1/work/catkin_ws/devel
+
+Name: marker_publisher
+Description: Description of marker_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ccc_1cf232f2d6_14027/asn31943_2/asn31944_1/work/catkin_ws/devel/lib 
+Requires: roscpp visualization_msgs
